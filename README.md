@@ -1,4 +1,4 @@
-<h1 align="center">Gesture Control Vehicle</h1>
+<h1 align="center">Thermal Imaging Using Infrared Radiation for Circuit Analysis</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Inactive-4B0082?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Ativo">
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Embedded%20System-4B0082?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded System">
 </p>
 
-# IR Thermal Analysis
+---
 
 ## Description
 IR Thermal Analysis is a project aimed at utilizing thermal imaging technology for circuit analysis. The system integrates the AMG8833 infrared sensor and ESP32 microcontroller to detect heat anomalies in electronic circuits.
@@ -26,7 +26,7 @@ IR Thermal Analysis is a project aimed at utilizing thermal imaging technology f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IR-Thermal-Analysis.git
+   git clone https://github.com/yvrcodex/IRThermalAnalysis
    ```
 2. Upload firmware to ESP32 using your preferred method.
 
@@ -36,7 +36,7 @@ IR Thermal Analysis is a project aimed at utilizing thermal imaging technology f
 - Follow the instructions for capturing and analyzing thermal images.
 
 ## Contributors
-- Your Name
+- Yasser
 
 ## License
 This project is licensed under the MIT License.
@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 Placeholder for acknowledgements.
 
 ## Support
-For any inquiries or support, please contact your@email.com.
+For any inquiries or support, please contact ---
