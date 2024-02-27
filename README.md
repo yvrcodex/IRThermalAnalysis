@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 # Table of Contents
 
 1. [WORKFLOW](docs/markdown/WORKFLOW.md)
