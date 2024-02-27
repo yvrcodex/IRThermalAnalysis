@@ -9,11 +9,10 @@
 </p>
 
 ---
-
 # Table of Contents
 
-1. [WORKFLOW](#workflow)
-2. [LINKS](#links)
+1. [WORKFLOW](docs/markdown/WORKFLOW.md)
+2. [REFERENCES](docs/references/LINKS.md)
 
 ## Description
 
